@@ -1,0 +1,55 @@
+.Sub-header {
+    color: white;
+    padding-left: 16px;
+}
+
+.Header-name {
+    color: white;
+    padding-left: 16px;
+    font-size: x-large;
+}
+
+.title {
+    padding-top: 32px;
+    background-color: rgb(198, 33, 75);
+    padding-bottom: 32px;
+    border: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.selection {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 16px;
+    padding-left: 48px;
+    padding-right: 1rem;
+}
+
+.selection-date {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 16px;
+    padding-left: 80px;
+    padding-right: 1rem;
+}
+
+.date-select {
+    width: 160px;
+}
+
+.locate-select {
+    width: 165px;
+}
+
+.bttn {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(198, 33, 75);
+    margin-left: 125px;
+    border-radius: 3px;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 16px;
+}
